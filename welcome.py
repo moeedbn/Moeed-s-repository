@@ -1,3 +1,30 @@
+# Course Python
+# Variable
+
+# camelCase
+# PascalCase
+# snake_case
+
+number_1 = 28
+number_2 = 12
+result = number_1 + number_2
+print(f"The Result Is : {result}")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 my_list = [1,2,3,4]
 my_list += [6,7]
 print(my_list)
